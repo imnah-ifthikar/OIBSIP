@@ -8,6 +8,7 @@ Python, pandas, scikit-learn (KMeans, StandardScaler), matplotlib, seaborn, Jupy
 
 ## Dataset
 Online Retail Dataset (UCI/Kaggle) - transactional data cleaned to 397,884 rows, aggregated into 4,338 unique customers.
+Due to file size (>25MB), the raw dataset isn't included here. Download it from Kaggle: search "Online Retail Dataset" and place the CSV in the same folder as the notebook to run it.
 
 ## Method
 1. Cleaned data: removed missing CustomerIDs and invalid transactions
